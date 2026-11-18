@@ -2,13 +2,8 @@
 cache/
 out/
 
-# Ignores development broadcast logs
-!/broadcast
-/broadcast/*/31337/
-/broadcast/**/dry-run/
-
-#Libs
-lib/
+# Broadcast logs
+broadcast/
 
 # Docs
 docs/
