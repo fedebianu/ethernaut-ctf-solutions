@@ -1,4 +1,4 @@
-# Ethernaut CTF
+# Ethernaut CTF Solutions
 
 My solutions to OpenZeppelin's [Ethernaut](https://ethernaut.openzeppelin.com/) CTF, levels 0–29, written with [Foundry](https://book.getfoundry.sh/) in spring 2023.
 
